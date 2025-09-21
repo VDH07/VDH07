@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VDH07
+- 👋 Hi, I’m Dhruvam Vaghani
 - 👀 I’m interested in Data Science , Editing , VFX
 - 🌱 I’m currently learning #PYTHON
 - 💞️ I’m looking to collaborate on Repositories
